@@ -13,3 +13,9 @@ A simple Python project where you can play the classic Snake, Water, Gun game ag
 2. Run the program using Python:
    ```bash
    python snake_water_gun_game.py
+
+
+   ## Games Included
+1. Snake Water Gun Game (`snake_water_gun_game.py`)
+2. Number Guessing Game (`number_guessing_game.py`)
+
